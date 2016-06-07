@@ -123,6 +123,7 @@ background-color:#FFEDD8;
 -ms-transform: scale(1.2);
 transform: scale(1.2);
 transition: 1s ease;
+color:black;
 }
 #organ
 {	
@@ -137,6 +138,7 @@ background-color:#FFEDD8;
 -ms-transform: scale(1.2);
 transform: scale(1.2);
 transition: 1s ease;
+color:black;
 }
 #comm
 {	
@@ -151,6 +153,7 @@ background-color:#FFEDD8;
 -ms-transform: scale(1.2);
 transform: scale(1.2);
 transition: 1s ease;
+color:black;
 }
 #awards
 {	
@@ -165,6 +168,7 @@ background-color:#FFEDD8;
 -ms-transform: scale(1.2);
 transform: scale(1.2);
 transition: 1s ease;
+color:black;
 }
 #recm
 {
@@ -181,6 +185,7 @@ background-color:#FFEDD8;
 -ms-transform: scale(1.2);
 transform: scale(1.2);
 transition: 1s ease;
+color:black;
 }
 #line{
 	color:#FFEDD8;
