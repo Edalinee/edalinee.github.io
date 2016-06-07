@@ -100,13 +100,7 @@ line-height: 50px;
     font-family:"Helvetica",Arial, sans-serif;
     transition: 1s ease;
 }
-#home, #about, #organ, #comm,#awards,#recm:hover{
-background-color:FFEDD8;
--webkit-transform: scale(1.2);
--ms-transform: scale(1.2);
-transform: scale(1.2);
-transition: 1s ease;
-}
+
 #home
 {
     border-top-left-radius: 10px;
@@ -123,12 +117,26 @@ transition: 1s ease;
     width:14%;
     float: left;
 }
+#about:hover{
+background-color:FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
 #organ
 {	
     background-color:black;
     color:white;
     width:16%;
     float: left;
+}
+#organ:hover{
+background-color:FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
 }
 #comm
 {	
@@ -137,12 +145,26 @@ transition: 1s ease;
     width:14%;
     float: left;
 }
+#comm:hover{
+background-color:FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+}
 #awards
 {	
     background-color:black;
     color:white;
     width:14%;
     float: left;
+}
+#awards:hover{
+background-color:FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
 }
 #recm
 {
@@ -152,6 +174,13 @@ transition: 1s ease;
     background-color:black;
     color:white;
     width:16%;
+}
+#recm:hover{
+background-color:FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
 }
 hr{
 	color:FFEDD8;
