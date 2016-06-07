@@ -98,15 +98,9 @@ vertical-align: middle;
 line-height: 50px;    
     height: 50px;
     font-family:"Helvetica",Arial, sans-serif;
-    transition: 1s ease;
 }
 #home, #about, #organ, #comm,#awards,#recm:hover{
-	
--webkit-transform: scale(1.2);
--ms-transform: scale(1.2);
-transform: scale(1.2);
-transition: 1s ease;
-color:blue;
+color:FFEDD8;
 }
 #home
 {
@@ -153,5 +147,10 @@ color:blue;
     background-color:black;
     color:white;
     width:14%;
+}
+hr{
+	color:FFEDD8;
+	width:100%;
+	height:3px;
 }
 
