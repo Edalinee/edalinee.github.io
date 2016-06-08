@@ -57,8 +57,9 @@ font-family:"Helvetica",Arial, sans-serif;
     border-width: 1px;
     border-style: solid;
     overflow: hidden;
-
-
+}
+a:#border{
+color:white;
 }
 li a:hover{
 	color:black
