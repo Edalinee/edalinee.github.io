@@ -85,16 +85,16 @@ font-family:"Helvetica",Arial, sans-serif;
 	font-family:"Helvetica",Arial, sans-serif;
 	font-size:26px;	
 	text-align:center;
-	color#00001C;
+	color:#00001C;
 }
 #body1{
 	height:auto;
-	width:90%;
-	color: black;
+	width:80%;
+	color:#2f4f4f;
 	background-color:#FFEDD8;
-	padding:3px;
-	margin-left:20px;
-	margin-right:20px;
+	padding:0px;
+	margin-left:10%;
+	margin-right:10%;
 }
 #home, #about, #organ, #comm,#awards,#recm
 {
