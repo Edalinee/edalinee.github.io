@@ -200,3 +200,91 @@ td img{
 
 }
 
+
+#aboutbox{ 
+    background-color:black;
+    color:white;
+    width:50%;
+    height:25%;
+    float: left;
+}
+#aboutbox:hover{
+background-color:#FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:black;
+}
+#organbox
+{   
+    background-color:black;
+    color:white;
+    width:50%;
+    height: 25%;
+    float: right;
+}
+#organbox:hover{
+background-color:#FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:black;
+}
+#commbox
+{   
+    background-color:black;
+    color:white;
+    width:25%;
+    height:50%;
+    float: left;
+}
+#commbox:hover{
+background-color:#FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:black;
+}
+#awardsbox
+{   
+    background-color:black;
+    color:white;
+    width:25%;
+    float: right;
+}
+#awardsbox:hover{
+background-color:#FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:black;
+}
+#recmbox
+{
+   
+    float: left;
+    background-color:black;
+    color:white;
+    width:50%;
+    height:25%;
+}
+#recmbox:hover{
+background-color:#FFEDD8;
+-webkit-transform: scale(1.2);
+-ms-transform: scale(1.2);
+transform: scale(1.2);
+transition: 1s ease;
+color:black;
+}
+#aboutbox, #organbox, #commbox,#awardsbox,#recmbox
+{
+ text-align: center;
+vertical-align: middle;
+font-family:"Helvetica",Arial, sans-serif;
+transition: 1s ease;
+position:inline-block;
+}
