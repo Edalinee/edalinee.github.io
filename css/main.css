@@ -60,7 +60,10 @@ font-family:"Helvetica",Arial, sans-serif;
     overflow: hidden;
 }
 #border a{
-color:white;
+color:#faebd7;
+}
+#border a:hover{
+    color:black;
 }
 li a:hover{
 	color:black
@@ -189,4 +192,9 @@ transition: 1s ease;
 color:black;
 }
 
+td img{
+    width:30px;
+    height:50px;
+    border:1px solid black;
 
+}
