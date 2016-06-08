@@ -29,6 +29,7 @@ p {
 }
 a:hover {
     text-decoration: none;
+    color: white;
 }
 footer {
     border-top: 1px solid #d5d5d5;
