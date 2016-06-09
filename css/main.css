@@ -313,27 +313,27 @@ transition: 1s ease;
 border:1px solid white;
 }
 #top td{
-    width:700px;
-    height:162.5px;
+    width:50%;
+    height:25%;
     background-color:yellow;
 }
 #bottom td{
-    width:700px;
-    height:162.5px;
+    width:50%;
+    height:25%;
     background-color:red;
 }
 #midleft{
-    width:350px;
-    height:325px;
+    width:25%;
+    height:50%;
     background-color:blue;
 }
 #midright{
-    width:350px;
-    height:325px;
+    width:25%;
+    height:50%;
     background-color:olive;
 }
 #mid{
-    width:700px;
-    height:325px;
+    width:50%;
+    height:50%;
     background-color:green;
 }
