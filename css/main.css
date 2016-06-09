@@ -314,17 +314,17 @@ border:1px solid white;
 }
 #top td{
     width:50%;
-    height:25%;
+    /*height:25%;*/
     background-color:yellow;
 }
 #bottom td{
     width:50%;
-    height:25%
+    /*height:25%;*/
     background-color:red;
 }
 #midleft{
     width:25%;
-    height:50%;
+    /*height:50%;*/
     background-color:blue;
 }
 #midright{
