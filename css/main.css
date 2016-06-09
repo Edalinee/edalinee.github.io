@@ -330,7 +330,24 @@ border:1px solid white;
     height:50%;
     background-color:green;
 }
-#homep{
-    width:100%;
-    height:100%;
+
+#top img{
+    width:50%;
+    height:25%;
+}
+#midleft img{
+    width:25%;
+    height:50%;
+}
+#midright img{
+    width:25%;
+    height:50%;
+}
+#mid img{
+    width:50%;
+    height:50%;
+}
+#bottom img{
+    width:50%;
+    height:25%;
 }
