@@ -314,26 +314,26 @@ border:1px solid white;
 }
 #top td{
     width:700px;
-    height:350px;
+    height:162.5px;
     background-color:yellow;
 }
 #bottom td{
     width:700px;
-    height:350px;
+    height:162.5px;
     background-color:red;
 }
 #midleft{
     width:350px;
-    height:700px;
+    height:325px;
     background-color:blue;
 }
 #midright{
     width:350px;
-    height:700px;
+    height:325px;
     background-color:olive;
 }
 #mid{
     width:700px;
-    height:700px;
+    height:325px;
     background-color:green;
 }
