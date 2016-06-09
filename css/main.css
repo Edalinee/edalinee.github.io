@@ -219,9 +219,7 @@ td img{
 #aboutbox{ 
     background-color:black;
     color:white;
-    width:50%;
-    height:25%;
-    float: left;
+
 }
 #aboutbox:hover{
 background-color:#FFEDD8;
@@ -235,9 +233,7 @@ color:black;
 {   
     background-color:black;
     color:white;
-    width:50%;
-    height: 25%;
-    float: right;
+  
 }
 #organbox:hover{
 background-color:#FFEDD8;
@@ -251,9 +247,7 @@ color:black;
 {   
     background-color:black;
     color:white;
-    width:25%;
-    height:50%;
-    float: left;
+
 }
 #commbox:hover{
 background-color:#FFEDD8;
@@ -267,8 +261,8 @@ color:black;
 {   
     background-color:black;
     color:white;
-    width:25%;
-    float: right;
+    
+   
 }
 #awardsbox:hover{
 background-color:#FFEDD8;
@@ -281,11 +275,10 @@ color:black;
 #portbox
 {
    
-    float: left;
+   
     background-color:black;
     color:white;
-    width:50%;
-    height:25%;
+   
 }
 #portbox:hover{
 background-color:#FFEDD8;
@@ -298,11 +291,10 @@ color:black;
 #recmbox
 {
    
-    float: right;
+   
     background-color:black;
     color:white;
-    width:50%;
-    height:25%;
+  
 }
 #recmbox:hover{
 background-color:#FFEDD8;
@@ -321,22 +313,27 @@ transition: 1s ease;
 border:1px solid white;
 }
 #top td{
-    width:50%;
-    height:25%;
+    width:500px;
+    height:250px;
+    background-color:yellow;
 }
 #bottom td{
-    width:50%;
-    height:25%;
+    width:500px;
+    height:250px;
+    background-color:red;
 }
 #midleft{
-    width:25%;
-    height:50%;
+    width:250px;
+    height:500px;
+    background-color:blue;
 }
 #midright{
-    width:25%;
-    height:50%;
+    width:250px;
+    height:500px;
+    background-color:olive;
 }
 #mid{
-    width:50%;
-    height:50%;
+    width:500px;
+    height:500px;
+    background-color:green;
 }
