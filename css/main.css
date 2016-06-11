@@ -487,7 +487,7 @@ color:black;
 
 #homebox
 {
-    background-image:"https://s-media-cache-ak0.pinimg.com/originals/56/d1/01/56d1016db892d04b8f28351bfc344192.jpg";
+    background-color:black;
     color:white;
     min-width:100%;
     min-height:100%;
@@ -564,24 +564,24 @@ border:1px solid white;
 }
 
 #top img{
-    width:50%;
-    height:25%;
+    width:100%;
+    height:100%;
 }
 #midleft img{
-    width:25%;
-    height:50%;
+    width:100%;
+    height:100%;
 }
 #midright img{
-    width:25%;
-    height:50%;
+    width:100%;
+    height:100%;
 }
 #mid img{
-    width:50%;
-    height:50%;
+    width:100%;
+    height:100%;
 }
 #bottom img{
-    width:50%;
-    height:25%;
+    width:100%;
+    height:100%;
 }
 #middle{
     width: 100%;
