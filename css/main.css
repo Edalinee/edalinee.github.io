@@ -50,7 +50,7 @@ ul.posts li {
 background-color:black;
 max-width:100%;
 position:relative;
-font-family:"Helvetica",Arial, sans-serif;
+font-family:"Garamond","Helvetica",Arial, sans-serif;
   top: 0;
   left: 0;
   z-index: 999;
@@ -532,7 +532,7 @@ color:black;
 {
  text-align: center;
 vertical-align: middle;
-font-family:"Helvetica",Arial, sans-serif;
+font-family:"Garamond","Helvetica",Arial, sans-serif;
 border:1px solid white;
 }
 #top {
