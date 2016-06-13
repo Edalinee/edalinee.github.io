@@ -533,7 +533,8 @@ color:black;
  text-align: center;
 vertical-align: middle;
 font-family:"Garamond","Helvetica",Arial, sans-serif;
-border:1px solid white;
+font-size:80px;
+
 }
 #top {
     width:100%;
