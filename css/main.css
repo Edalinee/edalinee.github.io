@@ -601,6 +601,7 @@ td img{
     width:500px;
     height:300px;
 }
-.gone:hover span{
+#aboutbox:hover span{
     visibility: visible;
+    color:black;
 }
