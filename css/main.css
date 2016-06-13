@@ -625,3 +625,7 @@ td img{
     visibility: visible;
     color:black;
 }
+#homebox:hover span{
+    visibility: visible;
+    color:black;
+}
