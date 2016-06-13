@@ -605,3 +605,23 @@ td img{
     visibility: visible;
     color:black;
 }
+#organbox:hover span{
+    visibility: visible;
+    color:black;
+}
+#commbox:hover span{
+    visibility: visible;
+    color:black;
+}
+#awardsbox:hover span{
+    visibility: visible;
+    color:black;
+}
+#portbox:hover span{
+    visibility: visible;
+    color:black;
+}
+#recmbox:hover span{
+    visibility: visible;
+    color:black;
+}
