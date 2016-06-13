@@ -498,7 +498,6 @@ color:black;
   transition-property: color;
   -webkit-transition-duration: 0.3s;
   transition-duration: 0.3s;
-  visibility:hidden;
 }
 #homebox:before{
   content: "";
@@ -589,4 +588,7 @@ border:1px solid white;
     height:50px;
     border:1px solid black;
 
+}
+.gone{
+    visibility:hidden;
 }
