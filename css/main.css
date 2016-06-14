@@ -2,7 +2,7 @@ html,body {
 margin:0px auto; 
 width:100%;
 height:100%;
-background-color:#FF00B0;
+background-color:#FFEDD8;
 
 }
 }
@@ -538,32 +538,32 @@ color:black;
  text-align: center;
 vertical-align: middle;
 font-family:"Garamond","Helvetica",Arial, sans-serif;
-border: 1px solid #FF00B0;
+border: 1px solid #FFEDD8;
 }
 #top {
     width:100%;
     height:25%;
-    background-color:#FF00B0;
+    background-color:#FFEDD8;
 }
 #bottom {
     width:100%;
     height:25%;
-   background-color:#FF00B0;
+   background-color:#FFEDD8;
 }
 #midleft{
     width:25%;
     height:50%;
-    background-color:#FF00B0;
+    background-color:#FFEDD8;
 }
 #midright{
     width:25%;
     height:50%;
-   background-color:#FF00B0;
+   background-color:#FFEDD8;
 }
 #mid{
     width:50%;
     height:50%;
-    background-color:#FF00B0;
+    background-color:#FFEDD8;
 }
 
 #top img{
