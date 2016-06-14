@@ -254,7 +254,6 @@ color:black;
 
 #aboutbox{   
     background:url("https://s-media-cache-ak0.pinimg.com/originals/8a/b8/a7/8ab8a794b1464ca3497b16503cc76217.jpg");
-    background-position: center;
     background-size: cover;
     color:white;
     min-height: 100%;
@@ -300,8 +299,10 @@ color:black;
   transform: scaleX(1);
 }
 #organbox{   
-    background-color:black;
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/8f/49/48/8f4948aeab8600184d57dcce263e5b35.jpg");
     color:white;
+    background-size: cover;
+    background-position: center;
     min-height: 100%;
     min-width:100%;
   -webkit-transform: translateZ(0);
