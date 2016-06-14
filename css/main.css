@@ -253,7 +253,9 @@ color:black;
 }
 
 #aboutbox{   
-    background-color:black;
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/8a/b8/a7/8ab8a794b1464ca3497b16503cc76217.jpg");
+    background-position: center;
+    background-size: cover;
     color:white;
     min-height: 100%;
     min-width:100%;
