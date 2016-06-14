@@ -394,8 +394,10 @@ color:black;
 }
 #portbox
 {
-    background-color:black;
+    background:url("https://s-media-cache-ak0.pinimg.com/originals/e7/f0/47/e7f0471ca468220c5af466adfde45f37.jpg");
     color:white;
+    background-size: cover;
+    background-position: center;
     min-width:100%;
     min-height:100%;
   -webkit-transform: translateZ(0);
