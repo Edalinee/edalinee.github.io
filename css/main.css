@@ -349,7 +349,9 @@ color:black;
 
 #awardsbox
 {
-    background-color:black;
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/c0/f7/b6/c0f7b6b999ac61871b959902cdc0c1ca.jpg");
+    background-size: cover;
+    background-position: center;
     color:white;
     min-width:100%;
     min-height:100%;
