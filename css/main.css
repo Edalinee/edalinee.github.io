@@ -640,3 +640,6 @@ td img{
     visibility: visible;
     color:black;
 }
+#indexp{
+    display: block;
+}
