@@ -208,7 +208,9 @@ color:black;
 
 #commbox
 {
-    background-color:black;
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/c7/e4/d7/c7e4d7a2d1eca7e23fb494214f66995e.jpg");
+    background-position: center;
+    background-size: cover;
     color:white;
     min-width:100%;
     min-height:100%;
@@ -443,7 +445,9 @@ color:black;
   transform: scaleX(1);
 }
 #recmbox{   
-    background-color:black;
+    background-image:url("https://s-media-cache-ak0.pinimg.com/originals/7b/52/b7/7b52b7ab6f591d48d536be9f0a8d18e2.jpg");
+    background-size: cover;
+    background-position: center;
     color:white;
     min-height: 100%;
     min-width:100%;
