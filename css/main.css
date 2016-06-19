@@ -665,5 +665,5 @@ background-color: white;
 #aboutpic{
     width:50%;
     height: 50%;
-    transform: rotate(90deg);
+    transform: rotate(270deg);
 }
