@@ -235,7 +235,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 0;
@@ -281,7 +281,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -328,7 +328,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 100% 50%;
@@ -378,7 +378,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 0;
@@ -425,7 +425,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 0 50%;
@@ -472,7 +472,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleX(0);
   transform: scaleX(0);
   -webkit-transform-origin: 100% 50%;
@@ -521,7 +521,7 @@ color:black;
   left: 0;
   right: 0;
   bottom: 0;
-  background: #FFEDD8;
+  background: white;
   -webkit-transform: scaleY(0);
   transform: scaleY(0);
   -webkit-transform-origin: 50% 100%;
@@ -545,32 +545,32 @@ color:black;
  text-align: center;
 vertical-align: middle;
 font-family:"Garamond","Helvetica",Arial, sans-serif;
-border: 1px solid #FFEDD8;
+border: 1px solid url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 #top {
     width:100%;
     height:25%;
-    background-color:#FFEDD8;
+    background:url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 #bottom {
     width:100%;
     height:25%;
-   background-color:#FFEDD8;
+   background:url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 #midleft{
     width:25%;
     height:50%;
-    background-color:#FFEDD8;
+    background:url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 #midright{
     width:25%;
     height:50%;
-   background-color:#FFEDD8;
+   background:url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 #mid{
     width:50%;
     height:50%;
-    background-color:#FFEDD8;
+    background:url("http://content.rustinandmallory.netdna-cdn.com/j/710/FOIL-SAVANNAH-ROSE-GOLD-D__06793_std.jpg");
 }
 
 #top img{
