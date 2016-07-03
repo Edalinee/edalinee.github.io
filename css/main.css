@@ -76,14 +76,15 @@ li a:hover{
 .label{
 
   border-radius: 50%;
-  width: 500px;
-  height: 500px; 
+  width: 400px;
+  height: 400px; 
 	font-size:75px;
 	padding:3px;
 	text-align:center;
 	color:#ff4a4a;
 font-family:'Lobster';
 background-color: black;
+float: left;
 	
 }
 
