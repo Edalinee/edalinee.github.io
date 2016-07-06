@@ -680,7 +680,14 @@ background-color: white;
     background-color: #ff4a4a;
 }
 .pink{
-    color:#ff4a4a;
+    color:#c3a343;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url(http://www.colorhexa.com/ff4a4a.png) repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+
+    
 
 }
 .foilpink{
