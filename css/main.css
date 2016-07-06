@@ -24,7 +24,7 @@ a {
 h2 {
     font-size: 3em;
 font-family: 'Poppins', sans-serif;
- color:#ff4a4a;
+ color:#ffb6c1;
 }
 p {
     font-size: 1.5em;
@@ -64,7 +64,7 @@ font-family: 'Poppins', sans-serif;
     overflow: hidden;
 }
 #border a{
-color:#ff4a4a;
+color:#ffb6c1;
 }
 #border a:hover{
     color:black;
@@ -77,7 +77,7 @@ li a:hover{
     width:100%;
     height:50%;
     text-align: center;
-    background-color: #ff4a4a;
+    background-color: #ffb6c1;
     color: white;
     font-family: 'Poppins', sans-serif;
     font-size:5em;
@@ -670,13 +670,13 @@ background-color: white;
 }
 #body1 b{
     color:white;
-    background-color: #ff4a4a;
+    background-color: #ffb6c1;
 }
 .pink{
     color:#c3a343;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url(http://www.colorhexa.com/ff4a4a.png) repeat;
+    url(http://www.colordic.org/image/ffb6c1.png) repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 
@@ -687,13 +687,7 @@ background-color: white;
     color:#c3a343;
     -webkit-text-fill-color: transparent;
     background: -webkit-linear-gradient(transparent, transparent),
-    url(http://image.naldzgraphics.net/2012/07/29-Pink.jpg) repeat;
+    url(http://www.foilplay.co.uk/user/products/large/palepink.jpg) repeat;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
-}
-#corner{
-    position: absolute; top: 5px; right: 5px; text-align: left;
-}
-#corner2{
-    position: absolute; bottom: 5px; right: 5px; text-align: right;
 }
