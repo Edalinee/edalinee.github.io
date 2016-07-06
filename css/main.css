@@ -679,3 +679,15 @@ background-color: white;
     color:white;
     background-color: #ff4a4a;
 }
+.pink{
+    color:#ff4a4a;
+
+}
+.foilpink{
+    color:#c3a343;
+    -webkit-text-fill-color: transparent;
+    background: -webkit-linear-gradient(transparent, transparent),
+    url(http://image.naldzgraphics.net/2012/07/29-Pink.jpg) repeat;
+    background: -o-linear-gradient(transparent, transparent);
+    -webkit-background-clip: text;
+}
