@@ -695,3 +695,28 @@ background-color: white;
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
 }
+.blink {
+  animation: blink-animation 2s steps(2, start) infinite;
+  -webkit-animation: blink-animation 2s steps(2, start) infinite;
+  color:#b6fff4;
+}
+.blink2 {
+  animation: blink-animation 2s steps(10, start) infinite;
+  -webkit-animation: blink-animation 2s steps(10, start) infinite;
+  color:#b6fff4;
+}
+.blink3 {
+  animation: blink-animation 2s steps(20, start) infinite;
+  -webkit-animation: blink-animation 2s steps(20, start) infinite;
+  color:#b6fff4;
+}
+@keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
+@-webkit-keyframes blink-animation {
+  to {
+    visibility: hidden;
+  }
+}
