@@ -701,13 +701,13 @@ background-color: white;
   color:#b6fff4;
 }
 .blink2 {
-  animation: blink-animation 2s steps(10, start) infinite;
-  -webkit-animation: blink-animation 2s steps(10, start) infinite;
+  animation: blink-animation 4s steps(5, start) infinite;
+  -webkit-animation: blink-animation 4s steps(5, start) infinite;
   color:#b6fff4;
 }
 .blink3 {
-  animation: blink-animation 2s steps(20, start) infinite;
-  -webkit-animation: blink-animation 2s steps(20, start) infinite;
+  animation: blink-animation 8s steps(11, start) infinite;
+  -webkit-animation: blink-animation 8s steps(11, start) infinite;
   color:#b6fff4;
 }
 @keyframes blink-animation {
