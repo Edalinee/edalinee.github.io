@@ -694,6 +694,6 @@ background-color: white;
 #corner{
     position: absolute; top: 5px; right: 5px; text-align: left;
 }
-#corner span{
+#corner2{
     position: absolute; bottom: 5px; right: 5px; text-align: right;
 }
