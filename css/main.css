@@ -23,7 +23,7 @@ a {
 
 h2 {
     font-size: 3em;
- font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
  color:#ff4a4a;
 }
 p {
@@ -52,7 +52,7 @@ ul.posts li {
 background-color:black;
 max-width:100%;
 position:relative;
-font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
   top: 0;
   left: 0;
   z-index: 999;
@@ -82,7 +82,7 @@ li a:hover{
 	padding:3px;
 	text-align:center;
 	color:#ff4a4a;
-font-family:'Lobster';
+font-family: 'Poppins', sans-serif;
 background-color: black;
     float: right;
     position: relative;
@@ -99,7 +99,7 @@ background-color: black;
 	margin-left:5%;
 	margin-right:5%;
     margin-top:0px;
- font-family: futura-pt;
+font-family: 'Crimson Text', serif;
 }
 #home, #about, #organ, #comm,#awards,#recm,#port
 {
@@ -107,7 +107,7 @@ background-color: black;
 vertical-align: middle;
 line-height: 50px;    
     height: 50px;
-font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
     transition: 1s ease;
 }
 
@@ -551,7 +551,7 @@ color:black;
 {
  text-align: center;
 vertical-align: middle;
-font-family: 'Lobster', cursive;
+font-family: 'Poppins', sans-serif;
 border: 1px solid #d3d3d3;
 }
 #top {
