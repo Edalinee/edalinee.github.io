@@ -661,7 +661,9 @@ h3{
 #body2{
 width:50%;
 height:100%;
-background-color: white;
+background-color: #ffb6c1;
+color:white;
+font-family: 'Poppins', sans-serif;
 }
 #abtable{
     width:100%;
@@ -719,4 +721,13 @@ background-color: white;
   to {
     visibility: hidden;
   }
+}
+#ab-back{
+    width:90%;
+    height: auto;
+    background-color: #ffb6c1;
+     padding:0px;
+    margin-left:5%;
+    margin-right:5%;
+    margin-top:0px;
 }
