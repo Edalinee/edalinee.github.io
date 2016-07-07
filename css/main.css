@@ -781,8 +781,12 @@ footer a{
     margin-right: 10%;
     margin-left: 10%;
     width:80%;
+    background-color: #b6fff4;
+    color:black;
 }
 figcaption{
     text-align:center;
     font-family: 'Poppins', sans-serif; 
+    color:#ffb6c1;
+
 }
