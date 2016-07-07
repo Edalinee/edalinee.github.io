@@ -767,3 +767,9 @@ footer a{
     text-decoration: none;
     color:white;
 }
+#who{
+    color:white;
+    text-align:center;
+    font-family: 'Poppins', sans-serif; 
+    font-size: 4em;
+}
