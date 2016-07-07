@@ -612,7 +612,8 @@ border: 1px solid #d3d3d3;
     visibility:hidden;
 }
 h1{
-    font-size:4em;
+    font-size:3em;
+    position: absolute;
 }
 td img{
     width:500px;
