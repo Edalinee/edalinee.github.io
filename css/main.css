@@ -782,3 +782,7 @@ footer a{
     margin-left: 10%;
     width:80%;
 }
+figcaption{
+    text-align:center;
+    font-family: 'Poppins', sans-serif; 
+}
