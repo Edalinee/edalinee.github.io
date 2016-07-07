@@ -125,7 +125,7 @@ font-family: 'Poppins', sans-serif;
     float: left;
 }
 #about:hover{
-background-color:white;
+background-color:#b6fff4;
 -webkit-transform: scale(1.2);
 -ms-transform: scale(1.2);
 transform: scale(1.2);
@@ -673,7 +673,7 @@ background-color: white;
     transform: rotate(270deg);
 }
 #body1 b{
-    color:white;
+    color:black;
     background-color: #b6fff4;
 }
 .pink{
