@@ -842,5 +842,10 @@ figcaption{
 
 }
 #picofme{
-    border: 1px solid #ffb6c1;
+    width:200px;
+    height:200px;
+}
+#namep{
+    color:#ffb6c1;
+    font-size:30px;
 }
