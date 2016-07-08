@@ -812,7 +812,7 @@ figcaption{
     text-shadow: 0px 0px 2px #eeb213;
     color: #eeb213;
     padding: 5px 20px;
-    margin: 2px;
+    margin: 0px;
     background: rgba(0,0,0,0.7);
     letter-spacing: 1px;
     -webkit-transition: all 0.2s linear;
@@ -820,13 +820,17 @@ figcaption{
     -o-transition: all 0.2s linear;
     -ms-transition: all 0.2s linear;
     transition: all 0.2s linear;
+    width:25%;
 }
 .bmenu{
     padding: 0px;
     margin: 0 0 10px 0;
     position: relative;
+    float:left;
+    width:25%;
 }
 .bmenu li{
     font-size: 25px;
     display: block;
+    width:25%;
 }
