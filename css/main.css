@@ -833,18 +833,6 @@ figcaption{
 #type{
     float:right;
     text-align: left;
-    width:100%;  
+    width:75%;  
     height:100%;
-}
-#nav{
-width:25%;
-height:auto;
-float:left;
-position:relative;
-}
-#type1{
-    width:75%;
-    height:auto;
-    float:right;
-    position:relative;
 }
