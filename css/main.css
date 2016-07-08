@@ -830,3 +830,8 @@ figcaption{
     margin: 0 0 10px 0;
     position: relative;
 }
+#type{
+    float:right;
+    text-align: left;
+    width:75%;
+}
