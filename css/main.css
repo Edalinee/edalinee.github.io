@@ -797,20 +797,20 @@ figcaption{
     background-color: black;
     position: absolute;
 }
-.bmenu{
-    padding: 0px;
-    margin: 0 0 10px 0;
-    position: relative;
+.bmenu:hover li a{
+    text-shadow: 0px 0px 10px #eeb213;
+    color: transparent;
+    background: rgba(0,0,0,0.2);
 }
-.bmenu li{
-    font-size: 25px;
-    display: block;
+.bmenu li a:hover{
+    background: rgba(0,0,0,1.0);
+    text-shadow: 0px 0px 1px #eeb213;
 }
 .bmenu li a{
     display: block;
     text-transform: uppercase;
     text-shadow: 0px 0px 2px #eeb213;
-    color: #b6fff4;
+    color: #eeb213;
     padding: 5px 20px;
     margin: 2px;
     background: rgba(0,0,0,0.7);
@@ -821,12 +821,12 @@ figcaption{
     -ms-transition: all 0.2s linear;
     transition: all 0.2s linear;
 }
-.bmenu:hover li a{
-    text-shadow: 0px 0px 10px #eeb213;
-    color: transparent;
-    background: rgba(0,0,0,0.2);
+.bmenu{
+    padding: 0px;
+    margin: 0 0 10px 0;
+    position: relative;
 }
-.bmenu li a:hover{
-    background: rgba(0,0,0,1.0);
-    text-shadow: 0px 0px 1px #eeb213;
+.bmenu li{
+    font-size: 25px;
+    display: block;
 }
