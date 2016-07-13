@@ -816,6 +816,7 @@ figcaption{
     -ms-transition: all 0.2s linear;
     transition: all 0.2s linear;
     font-family: 'Poppins',sans-serif;
+    text-align: center;
 }
 .bmenu:hover li a{
     text-shadow: 0px 0px 10px #b6fff4;
@@ -840,6 +841,7 @@ figcaption{
 #topmenu{
     background-color: black;
     width:100%;
+    text-align: center;
 
 }
 #picofme{
