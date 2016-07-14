@@ -616,7 +616,7 @@ h1{
     position: absolute;
 }
 td img{
-    width:500px;
+    width:400px;
     height:300px;
 }
 #aboutbox:hover span{
@@ -778,12 +778,10 @@ footer a{
     height:500px;
 }
 #art{
-
     width:100%;
     background-color: #b6fff4;
     color:black;
-    margin-bottom: 10px;
-}
+
 figcaption{
     text-align:center;
     font-family: 'Poppins', sans-serif; 
@@ -850,6 +848,9 @@ figcaption{
 #namep{
     color:#ffb6c1;
     font-size:30px;
+}
+#namep:hover{
+    color:white;
 }
 .typed-cursor{
     opacity: 1;
