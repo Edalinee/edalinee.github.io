@@ -873,3 +873,6 @@ figcaption{
     50% { opacity:0; }
     100% { opacity:1; }
 }
+#recmlabel{
+    font-size: 1.3em;
+}
